@@ -1,0 +1,6 @@
+---
+published: true
+title: How do I do ?
+layout: post
+---
+This could be something interesting to see out there in the world, thanks @tinypress 
