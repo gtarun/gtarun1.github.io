@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://gtarun.github.io
+title: Tarun Gupta
+tagline: Thinking the new way
+description: My awesome new site
+paginate: 5
