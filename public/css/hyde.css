@@ -83,14 +83,14 @@ html {
   font-size: 3.25rem;
 }
 .sidebar-about-me .logo{
-      height: 56px;
-    width: 55px;
+    height: 14em;
+    width: 14em;
     background: url(https://gtarun.github.io/me.jpg) no-repeat center;
     background-size: 100% !important;
     border-radius: 60px !important;
     -webkit-border-radius: 60px !important;
     display: inline-block;
-    opacity: 1;
+    opacity: 0.8;
     transition: all 0.1s linear;
 
 }
