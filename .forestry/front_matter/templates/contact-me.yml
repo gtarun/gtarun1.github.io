@@ -18,3 +18,4 @@ fields:
   label: Email
 pages:
 - _posts/categories/contact.md
+- portfolio.md
